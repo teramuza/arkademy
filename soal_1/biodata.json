@@ -1,0 +1,14 @@
+var myObj;
+myObj = {};
+myObj.name = "Teuku Raja";
+myObj.address = "Jl. Sandratek Rempoa Ciputat-Timur";
+myObj.hobbies = ["Code","Listening Music","Watching Anime"];
+myObj.is_married = false;
+myObj.school = {
+	"highSchool":"SMK Nusantara 1 Ciputat",
+	"university":"Universitas Pamulang Viktor"
+};
+myObj.skills = {
+	"programLanguage":["Php","Cpp","Java"],
+	"framework":["Codeigniter","Laravel"]
+};
