@@ -1,5 +1,5 @@
 function checkPassword(masukan) {
-	var syarat = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,15}$/;
+	var syarat = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,8}$/;
 
 	if (masukan.value.match(syarat)) {
 		alert('True');
