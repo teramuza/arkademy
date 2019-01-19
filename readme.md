@@ -18,19 +18,19 @@ $database = "arkademy"; // <- database ada di dalam folder dir soal_6
 ...
 }
 
-bintang(11); //ubahnya yg ini bisa genap bisa ganjil
+bintang(11); // <- ubahnya yg ini bisa genap bisa ganjil
 ```
 ```
 ...
 }
 
-print_abc(4,6); //ubahnya yg ini 
+print_abc(4,6); // <- ubahnya yg ini 
 ```
 ```
 	echo "Jumlah jabat tangan adalah = ".$jumlah;
 }
 
-count_handshake(10); //ubah yg ini.
+count_handshake(10); // <- ubah yg ini.
 ```
 
 
