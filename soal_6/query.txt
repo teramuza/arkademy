@@ -2,3 +2,8 @@
  from persons,hobbies 
  where hobbies.person_id=persons.id 
  order by persons.id;
+
+ //left join
+ select persons.id, persons.name as Nama, hobbies.name 
+ from persons 
+ left join hobbies on persons.id = hobbies.person_id;
