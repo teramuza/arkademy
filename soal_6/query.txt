@@ -1,0 +1,4 @@
+ select persons.id as ID_Person, persons.name as Nama, hobbies.name as Person_Hobbies 
+ from persons,hobbies 
+ where hobbies.person_id=persons.id 
+ order by persons.id;
