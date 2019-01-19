@@ -13,6 +13,7 @@ $password = "homestead"; //ini diganti ya
 $database = "arkademy"; // <- database ada di dalam folder dir soal_6
 ```
 
+
 * Soal nomor 3, 4 & 5 jalanin functionnya sudah didalam file tsb, ubah saja angkanya
 ```
 ...
@@ -32,9 +33,3 @@ print_abc(4,6); // <- ubahnya yg ini
 
 count_handshake(10); // <- ubah yg ini.
 ```
-
-
-* ul list
-
-[title of link](link)
-
